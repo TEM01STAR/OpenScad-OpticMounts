@@ -11,6 +11,8 @@ $fn = 50;
 generate = "Both";
 //Clearance is used for fillets and clearance between moving parts. It is intended to be 1mm.
 clearance = 1;
+//Tolerance is used for printer tolerancing for snug fit parts
+tolerance = 0.1;
 //Width is the overall x/y width of the optical mount.
 Width = 50;
 //Thickness is the z thickness of each part.
@@ -214,7 +216,7 @@ module CircleMount(width,thi){
         };
         translate([width/2,0,width/2]){
             rotate([-90,0,0]){
-                cylinder(thi,d=optic_diameter);
+                cylinder(thi,d=optic_diameter+tolerance);
             }
         }
         translate([width/2,thi/2,width/2]){
