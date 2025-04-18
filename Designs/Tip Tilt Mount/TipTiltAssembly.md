@@ -29,7 +29,7 @@ Add the tooling balls.
 Install the springs to the back 3d print by passing the pins through the loop of the spring.
 ![4BackSprings](https://github.com/user-attachments/assets/86b5cc9d-4c95-498b-87e7-5807653e49bf)
 
-The most difficult part - Pull the extension springs into the front half of the print, and install the pins through the loops. This is easier to do with forceps or needlenose pliers.
+The most difficult part - Pull the extension springs into the front half of the print, and install the pins through the loops. This is easier to do with forceps or needlenose pliers. Using thread or fishing line is also a good way to assemble them.
 ![5FrontSprings](https://github.com/user-attachments/assets/adab8746-d638-441a-b862-35c593d30c1e)
 
 All Done:
