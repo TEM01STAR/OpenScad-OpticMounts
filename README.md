@@ -1,7 +1,7 @@
-## OpenScad-OpticMounts
+# OpenScad-OpticMounts
 This is a work in progress collection of 3d printable optic table mounts. They are written in OpenScad, not because I am good at using it, but because it is open source. The code will likely be messy, be warned.
 
-# Design intentions:
+## Design intentions:
 1. Keep the cost low.
 2.  Be compatible with existing optical setups where possible.
 3.   Be as precise as possible without violating 1 and 2 ;)
