@@ -1,6 +1,6 @@
-#Tip Tilt Optical Mount
+# Tip Tilt Optical Mount
 
-##Bill of Materials
+## Bill of Materials
 
 |Part Type         |Quantity|Default Size           |Approximate Price April 2025|
 |------------------|--------|-----------------------|----------------------------|
